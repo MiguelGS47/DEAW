@@ -6,4 +6,4 @@
 |---------|----------------------------------|
 | Aitor   | [solidsnake1395](https://github.com/solidsnake1395) |
 | Victor  | [pvVictor1](https://github.com/pvVictor1) |
-| Juanjo  | [MiguelGS47](https://github.com/jjcrys) |
+| Juanjo  | [jjcrys](https://github.com/jjcrys) |
